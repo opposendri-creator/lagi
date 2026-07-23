@@ -1,5 +1,5 @@
 // Data Produk Dapu Mulia
-const products = [
+const baseProducts = [
     // ========== KUE KERING ==========
     {
         id: 1,
